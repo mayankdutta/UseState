@@ -1,0 +1,17 @@
+.container{
+
+    background-color: rgb(233, 106, 131);
+    height: 15cm;
+    width : 10cm;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+}
+.btn{
+    width: 5cm;
+    height: 1cm;
+    border: none;
+    background-color: rgb(238, 157, 197);
+    color : black;
+    margin-top: 1cm;
+}
